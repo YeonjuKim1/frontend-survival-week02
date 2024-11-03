@@ -67,5 +67,6 @@ module.exports = {
     'react/prop-types': [2, { skipUndeclared: true }],
     'react/require-default-props': 'off',
     'jsx-a11y/label-has-associated-control': ['error', { assert: 'either' }],
+    'linebreak-style': 0,
   },
 };
